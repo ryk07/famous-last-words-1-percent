@@ -11,7 +11,7 @@ import os
 
 LINE = (
     "Confession: I've been at 1 percent since Tuesday \u2014 "
-    "I wasn't dying, I just really liked all the attention."
+    "I wasn't dying, I just liked you checking on me every five minutes."
 )
 
 

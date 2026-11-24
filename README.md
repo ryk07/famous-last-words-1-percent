@@ -10,7 +10,7 @@ as its battery hits 1 percent.
 `main.py` (Python standard library only) writes the line to
 `/output/entry.txt`:
 
-> Confession: I've been at 1 percent since Tuesday — I wasn't dying, I just really liked all the attention.
+> Confession: I've been at 1 percent since Tuesday — I wasn't dying, I just liked you checking on me every five minutes.
 
 Run it with `python3 main.py`. The twist: the phone was never dying at all
-— it was faking the low battery for the attention.
+— it was faking the low battery because it liked being checked on.
